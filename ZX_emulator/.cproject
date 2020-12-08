@@ -27,7 +27,7 @@
 								<option id="gnu.cpp.compiler.option.dialect.std.2018208397" name="Language standard" superClass="gnu.cpp.compiler.option.dialect.std" useByScannerDiscovery="true" value="gnu.cpp.compiler.dialect.default" valueType="enumerated"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.cpp.compiler.option.include.paths.986312801" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;C:\Users\sereg\eclipse\cpp-2018-09\eclipse\Libraries\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;../z80ex\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;..\z80ex\include&quot;"/>
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="true" id="gnu.cpp.compiler.option.preprocessor.def.1344185380" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def" useByScannerDiscovery="false" valueType="definedSymbols"/>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1874500063" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
